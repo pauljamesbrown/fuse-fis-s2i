@@ -1,1 +1,0 @@
-Camel route using CDI in a standalone Java Container
